@@ -96,22 +96,7 @@ namespace KomodoApp.UI
                 "5: Return to Main Menu \n" +
                 "99: Exit Application \n" +
                 "**************************");
-
             //switch case for next part goes here
-        }
-        public void DevTeamMenu()
-        {
-            //DevTeam management menu
-            Console.Clear();
-            Console.WriteLine(
-                "Please select an option: \n" +
-                "************************** \n" +
-                "1: placeholderTest \n" +
-                "2: placeholderTest \n" +
-                "3: Main Menu \n" +
-                "99: Exit Application \n" +
-                "**************************");
-
             string userInput = Console.ReadLine();
             switch (userInput)
             {
@@ -122,14 +107,63 @@ namespace KomodoApp.UI
                     //placeholder
                     break;
                 case "3":
+                    //placeholder
+                    break;
+                case "4":
+                    //placeholder
+                    break;
+                case "5":
                     MainMenu();
+                    break;
+                case "99":
+                    Console.ReadLine();
                     break;
                 default:
                     Console.WriteLine("Please choose one of the options");
                     break;
             }
 
+        }
+        public void DevTeamMenu()
+        {
+            //DevTeam management menu
+            Console.Clear();
+            Console.WriteLine(
+                "Please select an option: \n" +
+                "************************** \n" +
+                "1: View Developer Teams \n" +
+                "2: Add Developer Team \n" +
+                "3: Remove Developer Team \n" +
+                "4: Update Developer Team \n" +
+                "5: Return to Main Menu \n" +
+                "99: Exit Application \n" +
+                "**************************");
             //switch case for next part goes here
+            string userInput = Console.ReadLine();
+            switch (userInput)
+            {
+                case "1":
+                    //placeholder
+                    break;
+                case "2":
+                    //placeholder
+                    break;
+                case "3":
+                    //placeholder
+                    break;
+                case "4":
+                    //placeholder
+                    break;
+                case "5":
+                    MainMenu();
+                    break;
+                case "99":
+                    Console.ReadLine();
+                    break;
+                default:
+                    Console.WriteLine("Please choose one of the options");
+                    break;
+            }
         }
     }
 }
