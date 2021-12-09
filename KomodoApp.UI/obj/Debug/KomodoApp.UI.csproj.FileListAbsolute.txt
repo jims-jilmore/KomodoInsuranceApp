@@ -1,0 +1,12 @@
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.UI.exe.config
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.UI.exe
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.UI.pdb
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.POCO.dll
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.REPO.dll
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.POCO.pdb
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\bin\Debug\KomodoApp.REPO.pdb
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\obj\Debug\KomodoApp.UI.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\obj\Debug\KomodoApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\obj\Debug\KomodoApp.UI.csproj.CopyComplete
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\obj\Debug\KomodoApp.UI.exe
+C:\Users\Jimmy\source\repos\KomodoTeamManagementApp\KomodoApp.UI\obj\Debug\KomodoApp.UI.pdb

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace KomodoApp.REPO
 {
-    class Class1
+    public class DevTeamRepo
     {
+        private readonly List<string> _devloperTeam = new List<string>();
+        //Create or Delete Teams  || CRUD Methods
+        //Add or Remove TeamMembers from a Team or move them to another team.
     }
 }

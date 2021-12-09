@@ -11,6 +11,8 @@ namespace KomodoApp.UI
         static void Main(string[] args)
         {
             //Control Center. No Logic
+            ProgramUI KomodoUI = new ProgramUI();
+            KomodoUI.Run();
         }
     }
 }
