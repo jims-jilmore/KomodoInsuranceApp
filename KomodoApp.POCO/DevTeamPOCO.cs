@@ -13,12 +13,12 @@ namespace KomodoApp.POCO
         {
             public string TeamName { get; set; }
             public int TeamID { get; set; }
-            public string TeamMember { get; set; } //This will need to hold Dev First/Last Name.
+            public List<Developer> TeamMembers { get; set; } //This will need to hold Dev First/Last Name.
             public DevTeam() { }
-            public DevTeam(string teamName, string teamMember)
+            public DevTeam(string teamName, string teamMembers)
             {
                 TeamName = teamName;
-                TeamMember = teamMember;
+                //TeamMembers = teamMembers;
             }
         }
     }
